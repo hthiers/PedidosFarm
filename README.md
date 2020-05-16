@@ -1,5 +1,4 @@
 # PedidosFarm
 Proyecto PedidosFarm
 
-Curso Ing de Software
-AIEP.
+Curso Ing de Software.
